@@ -10,9 +10,8 @@ Olá! Me chamo Eduardo, tenho 19 anos e sou apaixonado por tecnologia. Atualment
 
    ![cassimirodev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cassimirodev&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
- 
     
-  <h3> 📫 Contato </h3>
+  <h3> 📩 Entre em contato! </h3>
 
   [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-dc262d?style=for-the-badge&logo=mail&logoColor=white)](mailto:luiseduardocass06@gmail.com)
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-app-white-icon)](https://www.linkedin.com/in/luiseduardocassimiro/)
@@ -21,12 +20,10 @@ Olá! Me chamo Eduardo, tenho 19 anos e sou apaixonado por tecnologia. Atualment
 
 ## ⭐ Github Status
 
-<div align='center'> 
+<div align='center', display='inline'> 
 
 ![cassimirodev's Stats](https://github-readme-stats.vercel.app/api?username=cassimirodev&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ![cassimirodev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cassimirodev&theme=dark&hide_border=false)
-
-![cassimirodev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cassimirodev&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 </div> 
