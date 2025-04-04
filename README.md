@@ -2,9 +2,6 @@
 
 Olá! Me chamo Eduardo, tenho 19 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FICR, onde estou no 3° período. Tenho interesse por JavaScript e Java.
 
-
-## 🚀 Minhas Skills
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,git,java,postgres,vscode,idea)](https://skillicons.dev)
 
 ## ⭐ Github Status
