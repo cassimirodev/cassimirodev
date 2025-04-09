@@ -1,9 +1,7 @@
 ## 👾 Olá, meu nome é <Luís>!
 
+  [English version -> ](README.md)
 
-<div>
-   [Leia  em inglês](README.md)
-</div>
 
 Olá! Me chamo Eduardo, tenho 19 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FICR, onde estou no 3° período. Tenho interesse por JavaScript e Java.
 
@@ -31,6 +29,7 @@ Olá! Me chamo Eduardo, tenho 19 anos e sou apaixonado por tecnologia. Atualment
 <div align="center" > 
 
 ![cassimirodev's Stats](https://github-readme-stats.vercel.app/api?username=cassimirodev&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
 
 ![cassimirodev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cassimirodev&theme=dark&hide_border=false)
 
