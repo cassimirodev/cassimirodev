@@ -5,7 +5,7 @@
 
 
 Hello! My name is Luís Eduardo, i'm 19 years old and i love technology. I am a Systems Analysis and Development student at the Faculdade Católica Imaculada Conceição do Recife, wich i'm doing the 3° period. 
-I am interested in web development, I am currently studying JavaScript and I intend to continue with Java as well. I also want to learn TypeScript in a way deeply. 
+I am interested in web development, I am currently studying JavaScript and I intend to continue with Java as well. I also want to learn TypeScript. 
 
 <div align="center">
    
