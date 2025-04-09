@@ -1,5 +1,8 @@
 ## 👾 Olá, meu nome é <Luís>!
 
+[Leia em inglês](README.md)
+
+
 Olá! Me chamo Eduardo, tenho 19 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FICR, onde estou no 3° período. Tenho interesse por JavaScript e Java.
 
 <div align="center">
