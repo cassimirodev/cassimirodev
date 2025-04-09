@@ -3,7 +3,7 @@
   [English version](README.md)
 
 
-Olá! Me chamo Eduardo, tenho 19 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FICR, onde estou no 3° período. Tenho interesse por JavaScript e Java.
+Olá! Me chamo Eduardo, tenho 19 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FICR, onde estou no 3° período. Tenho interesse pela área de desenvolvimento web, atualmente estou estudando JavaScript e pretendo seguir com Java também. Eu tenho vontade de aprender e me aprofundar em TypeScript também. 
 
 <div align="center">
    
