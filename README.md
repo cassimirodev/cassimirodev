@@ -7,7 +7,7 @@ Olá! Me chamo Eduardo, tenho 19 anos e sou apaixonado por tecnologia. Atualment
 
 <div align="center">
    
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,git,java,postgres,vscode,idea)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,bootstrap,c,git,java,postgres,vscode,idea)](https://skillicons.dev)
    
 </div>
 
