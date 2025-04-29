@@ -20,7 +20,7 @@ Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolviment
 </div>
 
 <div>
-  <h3> ⚙️ Ferramentas </h3>
+  <h3> ⚙️ Tools </h3>
   
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -44,7 +44,7 @@ Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolviment
 ##
 <div align="center">
   
-  <h3> 📫 Contato </h3>
+  <h3> 📫 Contact </h3>
 
   [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-dc262d?style=for-the-badge&logo=mail&logoColor=white)](mailto:luiseduardocass06@gmail.com)
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-app-white-icon)](https://www.linkedin.com/in/luiseduardocassimiro/)
