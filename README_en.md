@@ -1,5 +1,5 @@
 
-## 👾 Hello, my name is <Luís>!
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DA2EF7&width=435&lines=%F0%9F%91%BE+Hello+world%2C+i'm+%3CLu%C3%ADs%3E!)](https://git.io/typing-svg)
 
   [Portuguese version](README.md)
 
