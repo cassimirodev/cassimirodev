@@ -6,17 +6,14 @@
 Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na FICR, onde estou no 3° período. Tenho interesse pela área de desenvolvimento web, atualmente estou estudando JavaScript e pretendo seguir com Java também. Eu tenho vontade de aprender e me aprofundar em TypeScript. 
 
 
-<div align="center">
 
-<h1> Ferramentas </h1>
-
- [![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css)](https://skillicons.dev)
-   
-<h1> Ferramentas </h1>
+- Linguagens
 
  [![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css)](https://skillicons.dev)
    
-</div>
+
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css)](https://skillicons.dev)
+   
 
 
 <div align="center">
