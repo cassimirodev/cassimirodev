@@ -1,5 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=4693&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%BE+Ol%C3%A1%2C+meu+nome+%C3%A9+%3CLu%C3%ADs%3E!)](https://git.io/typing-svg)
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DA2EF7&width=435&lines=%F0%9F%91%BE+Ol%C3%A1+mundo%2C+me+chamo+%3CLu%C3%ADs%3E!)](https://git.io/typing-svg)
   [English version](README_en.md)
 
 
