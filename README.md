@@ -6,7 +6,14 @@
 Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na FICR, onde estou no 3° período. Tenho interesse pela área de desenvolvimento web, atualmente estou estudando JavaScript e pretendo seguir com Java também. Eu tenho vontade de aprender e me aprofundar em TypeScript. 
 
 
-## Linguagens
+- Linguagens
+<div>
+  
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css)](https://skillicons.dev)
+   
+</div>
+- Ferramentas
+
 <div>
   
  [![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css)](https://skillicons.dev)
@@ -14,11 +21,7 @@ Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolviment
 </div>
 
 
-
 <div align="center">
-
-   ![cassimirodev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cassimirodev&theme=dark&show_icons=true&hide_border=false&layout=compact)
-
   <h3> 📫 Contato </h3>
 
   [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-dc262d?style=for-the-badge&logo=mail&logoColor=white)](mailto:luiseduardocass06@gmail.com)
@@ -26,10 +29,3 @@ Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolviment
 
 </div>
 
-## ⭐ Github Status
-
-<div align="center" > 
-
-![cassimirodev's Stats](https://github-readme-stats.vercel.app/api?username=cassimirodev&theme=dark&show_icons=true&hide_border=false&count_private=true)
-
-</div> 
