@@ -8,11 +8,11 @@ Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolviment
 
 <div align="center">
 
-# Linguagens
+<h1> Ferramentas </h1>
 
  [![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css)](https://skillicons.dev)
    
-# Ferramentas
+<h1> Ferramentas </h1>
 
  [![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css)](https://skillicons.dev)
    
