@@ -9,7 +9,7 @@ Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolviment
 ## Linguagens
 <div>
   
-   [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,bootstrap,c,git,java,postgres,vscode,idea)](https://skillicons.dev)
+  (https://skillicons.dev/icons?i=js,typescript,html,css,bootstrap,c,git,java,postgres,vscode,idea)](https://skillicons.dev)
    
 </div>
 
