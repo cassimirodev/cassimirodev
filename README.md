@@ -3,7 +3,7 @@
   [English version](README_en.md)
 
 
-Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na FICR, onde estou no 3° período. Tenho interesse pela área de desenvolvimento web, atualmente estou estudando JavaScript e pretendo seguir com Java também. Eu tenho vontade de aprender e me aprofundar em TypeScript. 
+Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na FICR, onde estou no 3° período. Tenho interesse pela área de desenvolvimento web, atualmente estou estudando JavaScript e TypeScript. Eu tenho interesse em Java, também. 
 
 
 <div>
