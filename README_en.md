@@ -4,7 +4,7 @@
   [Portuguese version](README.md)
 
 
-Hello! My name is Eduardo, I'm 19 years old and I'm studying Systems Analysis and Development at FICR. I'm in the third semester. I'm interested in web development and I'm currently learning JavaScript and TypeScript. I also have an interest in Java.
+Hello! My name is Eduardo, I'm 19 years old and I'm studying Systems Analysis and Development at FICR. I'm in the third semester. I'm interested in web development.
 
 <div>
   <h3> ⌨️ Languages </h3>
