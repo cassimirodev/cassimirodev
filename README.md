@@ -31,26 +31,13 @@ Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolviment
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
 </p>
 
-
-
-   
-
-
-
 ##
 
 <div align="center">
 
-  
-
   <h3> 📫 Contato </h3>
-
-
-
   [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-dc262d?style=for-the-badge&logo=mail&logoColor=white)](mailto:luiseduardocass06@gmail.com)
-
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-app-white-icon)](https://www.linkedin.com/in/luiseduardocassimiro/)
-
-
+  </h3>
 
 </div>
