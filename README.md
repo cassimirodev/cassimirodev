@@ -13,13 +13,22 @@ Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolviment
 </div>
 
 <p align="center">
-
-  <a href="https://skillicons.dev">
-
-    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,nodejs,react,html,css,postgresql,mysql,vscode,idea,dbeaver,insomnia,git,github" />
-
-  </a>
-
+    <i class="devicon-java-plain-wordmark colored"></i>
+    <i class="devicon-javascript-plain colored"></i>
+    <i class="devicon-typescript-plain colored"></i>
+    <i class="devicon-spring-plain-wordmark colored"></i>
+    <i class="devicon-nodejs-plain-wordmark colored"></i>
+    <i class="devicon-react-original-wordmark colored"></i>
+    <i class="devicon-html5-plain-wordmark colored"></i>
+    <i class="devicon-css3-plain-wordmark colored"></i>
+    <i class="devicon-postgresql-plain-wordmark colored"></i>
+    <i class="devicon-mysql-plain-wordmark colored"></i>
+    <i class="devicon-vscode-plain colored"></i>
+    <i class="devicon-intellij-plain-wordmark colored"></i>
+    <i class="devicon-dbeaver-plain colored"></i>
+    <i class="devicon-insomnia-plain colored"></i>
+    <i class="devicon-git-plain-wordmark colored"></i>
+    <i class="devicon-github-original-wordmark colored"></i>
 </p>
 
 
