@@ -6,9 +6,9 @@ Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolviment
 
 
 
-<div align="center">
+<div align="left">
 
-  <h3>⌨️ Linguagens e Ferramentas ⚙️</h3>
+  <h3>⌨️ Linguagens e Ferramentas </h3>
 
 </div>
 
