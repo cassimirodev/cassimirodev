@@ -12,7 +12,7 @@ Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolviment
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,ts,spring,nodejs,react,html,css,postgresql,mysql,vscode,idea,dbeaver,insomnia,git,github" />
-  </a>dbeaver,insomnia
+  </a>
 </p>
 
    
