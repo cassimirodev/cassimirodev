@@ -4,12 +4,8 @@
 
 Olá! Me chamo Eduardo, tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na FICR, onde estou no 3° período. Tenho interesse pela área de desenvolvimento web.
 
-
-
 <div align="left">
-
   <h3>⌨️ Linguagens e Ferramentas </h3>
-
 </div>
 
 <p align="left">
