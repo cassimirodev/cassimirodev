@@ -10,7 +10,6 @@ Hello! My name is Eduardo, I'm 19 years old and I'm studying Systems Analysis an
   <h3>Linguagens e Ferramentas </h3>
 </div>
 <br>
-<br>
 <div>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="50" alt="java logo"  />
