@@ -3,14 +3,16 @@
 [English version](README_en.md)
 
 
-Olá! Me chamo Eduardo, sou estudante de Análise e Desenvolvimento de Sistemas na FICR focado no desenvolvimento back-end, utilizando o ecossistema `Java` e  `Spring Boot`. Atualmente foco meus estudos em boas práticas e código limpo, consolidando o aprendizado através de projetos práticos.
+Olá! Me chamo Eduardo, sou estudante de Análise e Desenvolvimento de Sistemas na FICR focado no desenvolvimento back-end, utilizando o ecossistema `Java` e  `Spring Boot`. Atualmente foco meus estudos em boas práticas e código limpo, consolidando o aprendizado através de projetos pessoais.
 ##
 
 <div align="center">
-  <h3>Linguagens e Ferramentas 💻</h3>
+  <h3>⌨️ Linguagens e Ferramentas 🔧</h3>
 </div>
 
-#### ∘ Linguagens
+
+
+### ∘ Linguagens
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="48" alt="java logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="48" alt="javascript logo"/>
@@ -19,7 +21,7 @@ Olá! Me chamo Eduardo, sou estudante de Análise e Desenvolvimento de Sistemas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="48" alt="css3 logo"/> 
 </div>
 
-#### ∘ Frameworks
+### ∘ Frameworks
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="48" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="48" alt="nodejs logo"  />
@@ -27,13 +29,13 @@ Olá! Me chamo Eduardo, sou estudante de Análise e Desenvolvimento de Sistemas 
 </div>  
 
 
-#### ∘ Banco de Dados
+### ∘ Banco de Dados
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="48" alt="mysql logo"  />
 </div>
 
-#### ∘ Ferramentas 
+### ∘ Ferramentas 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="48" alt="docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="48" alt="vscode logo"  />
